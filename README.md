@@ -5,7 +5,7 @@ A simple command line game with the Hangman theme. You have 9 lives. You need to
 
 ## Getting Started
 
-It needs only Python3. Download/clone the file to your machine.
+It needs only Python3. Download/clone the repository to your machine.
 Open terminal, change directory to the downloaded directory and run:
 ```
 python3 GuessTheMovie.py
